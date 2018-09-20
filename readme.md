@@ -1,7 +1,7 @@
 # 2018 GMCM
 ## F题 - 评估航站楼扩增对中转旅客的影响
 
-算法实现使用的技术：Python, NumPy, Pandas, Matplotlib, 
+算法实现使用的工具：Python 3.5, NumPy, Pandas, Matplotlib
 
 代码文件说明：
 - main.py 运行问题解决算法的主程序
